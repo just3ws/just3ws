@@ -12,6 +12,18 @@ Starting as **Development Manager at EMR-Bear** — bringing engineering discipl
 
 ---
 
+## 🎙️ The UGtastic & SCMC Oral History Archive (2009–2026)
+
+Curating 15 years of oral history and engineering wisdom across Midwest software craftsmanship movements (Software Craftsmanship North America, Chicago ALT.NET, RailsConf 2014, GOTO Chicago):
+
+- 📜 **100% Transcribed Corpus:** 207 video interviews (~456k words) with vector search (`zdots-ctx`).
+- 🕸️ [**Charlotte's Web of Wisdom & Tributes**](https://www.just3ws.com/web/) — 184 glowing speaker tributes & craftsmanship principles.
+- 💎 [**Archive Curiosities & Hidden Gems**](https://www.just3ws.com/curiosities/) — Tech prophecies vs. 2026 reality & lost tooling history.
+- 📊 [**Archive Pattern Intelligence**](https://www.just3ws.com/intelligence/) — Interactive trope visualizer & corpus heatmaps.
+- 🗺️ [**Interactive Timeline**](https://www.just3ws.com/timeline/) & [**Speaker Directory**](https://www.just3ws.com/speakers/)
+
+---
+
 ## The stack
 
 ```
@@ -55,7 +67,7 @@ Inference calls are locality-asserted: the AI boundary exits hard if the endpoin
 
 > *"Complex systems become understandable when you stop hiding their behaviour and start instrumenting it."*
 
-I write about shell engineering, local AI infrastructure, and building teams that own their observability. Website: [just3ws.com](https://www.just3ws.com)
+I write about shell engineering, local AI infrastructure, building observable systems, and preserving software engineering history. Website: [just3ws.com](https://www.just3ws.com)
 
 ---
 
