@@ -43,7 +43,7 @@ Curating 15+ years of oral history and engineering wisdom across Midwest softwar
 ```
 Languages      Ruby (Rails, Sequel, dry-rb) · TypeScript / Node.js · Go · Python · C#
 Data & Storage PostgreSQL · Redis · Sidekiq · MongoDB
-Observability  OpenTelemetry (OTel) · Grafana · Loki · Tempo · Mimir
+Observability  OpenTelemetry (OTel) · OpenObserve · Grafana LGTM
 Local AI       llama.cpp · speculative decoding · Ollama · agentic tool use
 Infra & OS     macOS / Linux · Docker / Colima · Nginx · WebSockets · launchd
 Security       PHI scrubbers · secret locality assertions · Brakeman static audits
