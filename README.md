@@ -27,32 +27,27 @@ Curating 15+ years of oral history and engineering wisdom across Midwest softwar
 
 ---
 
-## The stack
+## ⚔️ Featured Project: Phalanx Duel
 
-```
-Languages      Ruby (Rails, Sequel, dry-rb) · Go · TypeScript · Python · C# / .NET
-Data & Storage PostgreSQL · Redis · Sidekiq · MongoDB
-Observability  OpenTelemetry (OTel) · Grafana · Loki · Tempo · Mimir
-Local AI       llama.cpp · speculative decoding · Ollama · agentic tool use
-Infra & OS     macOS / Linux · Docker / Colima · Nginx · mise · launchd
-Security       PHI scrubbers · secret locality assertions · Brakeman static audits
-```
+**A real-time tactical game platform and laboratory for deterministic systems, product architecture, and controlled AI-assisted engineering.**
+
+- 🕹️ **Deterministic Simulation Engine:** Built with replayable action logs and server-authoritative state transitions in TypeScript/Node.js, making complex multi-turn tactical outcomes reproducible and independently verifiable.
+- 🛡️ **Automated Verification Gates:** Complete replay validation suites, adversarial state coverage, and CI verification testing to ensure mathematical determinism across the full match lifecycle.
+- 🤖 **Bounded AI Engineering:** Developed using controlled agent workflows with bounded tasks, strict acceptance criteria, automated checks, and human-reviewed outputs rather than treating raw model output as authority.
+- ⚡ **Real-Time WebSockets & Storage:** Low-latency bi-directional sync powered by WebSockets, PostgreSQL state storage, and Redis pub/sub.
 
 ---
 
-## The dots (Personal OS)
+## The stack
 
-My local environment is a set of version-controlled, reproducible configuration repos. Cold restore from a single command:
-
-```bash
-git clone https://github.com/just3ws/zdots.git ~/.config/zsh && ~/.config/zsh/bin/bootstrap
 ```
-
-| Repo | Path | What it is |
-|------|------|------------|
-| [**zdots**](https://github.com/just3ws/zdots) | `~/.config/zsh` | Shell platform. OTel tracing, local AI routing, PHI scrubbing, test suite. Drives bootstrap. |
-| [**adots**](https://github.com/just3ws/adots) | `~` | Dotfiles monorepo. git config, tmux, bat, btop, lazygit — everything that isn't a platform. |
-| [**vdots**](https://github.com/just3ws/vdots) | `~/.config/nvim` | Neovim. LSP, treesitter, Ruby/Go/TypeScript tooling. |
+Languages      Ruby (Rails, Sequel, dry-rb) · TypeScript / Node.js · Go · Python · C#
+Data & Storage PostgreSQL · Redis · Sidekiq · MongoDB
+Observability  OpenTelemetry (OTel) · Grafana · Loki · Tempo · Mimir
+Local AI       llama.cpp · speculative decoding · Ollama · agentic tool use
+Infra & OS     macOS / Linux · Docker / Colima · Nginx · WebSockets · launchd
+Security       PHI scrubbers · secret locality assertions · Brakeman static audits
+```
 
 ---
 
