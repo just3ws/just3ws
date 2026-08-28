@@ -10,19 +10,19 @@ Senior technical IC leadership across platform reliability, distributed tracing,
 
 - **Production Systems Modernization:** Strangler Fig refactoring, database seam extractions (PostgreSQL / MongoDB), and decoupling monoliths into clear domain boundaries without production downtime.
 - **System Legibility & Observability:** Production OpenTelemetry instrumentation, distributed tracing architectures, Grafana LGTM stack, and reducing the executive legibility gap.
-- **Local & Air-Gapped AI Engineering:** Private local inference (`llama.cpp`, speculative decoding), deterministic eval suites, and zero-cloud-egress data protection pipelines.
+- **Local & Air-Gapped AI Engineering:** Private local inference (`llama.cpp`, `whisper.cpp`), deterministic eval suites, MCP tool servers, and zero-cloud-egress data protection pipelines.
 - **Craftsmanship & Architecture:** Technical leadership, architectural decision records (ADRs), contract testing, and plain-English engineering clarity.
 
 ---
 
-## 🎙️ The UGtastic & Midwest Craftsmanship Archive (2009–2026)
+## 🎙️ The UGtastic & Midwest Craftsmanship Archive (2009 to 2026)
 
 Curating 15+ years of oral history and engineering wisdom across Midwest software craftsmanship movements (Software Craftsmanship North America, Chicago ALT.NET, RailsConf, GOTO Chicago, WindyCityRails):
 
-- 📜 **100% Transcribed Corpus:** 207 video interviews (~456k words) with vector search and 1:1 metadata parity on [just3ws.com](https://www.just3ws.com).
-- 🕸️ [**Charlotte's Web of Wisdom & Tributes**](https://www.just3ws.com/web/) — 184 speaker tributes & craftsmanship principles.
-- 💎 [**Archive Curiosities & Hidden Gems**](https://www.just3ws.com/curiosities/) — Tech prophecies vs. 2026 reality & lost tooling history.
-- 📊 [**Archive Pattern Intelligence**](https://www.just3ws.com/intelligence/) — Interactive trope visualizer & corpus heatmaps.
+- 📜 **100% Transcribed Corpus:** 211 video interviews (~456k words) with vector search and 1:1 metadata parity on [just3ws.com](https://www.just3ws.com).
+- 🕸️ [**Charlotte's Web of Wisdom & Tributes**](https://www.just3ws.com/web/): 184 speaker tributes & craftsmanship principles.
+- 💎 [**Archive Curiosities & Hidden Gems**](https://www.just3ws.com/curiosities/): Tech prophecies vs. 2026 reality & lost tooling history.
+- 📊 [**Archive Pattern Intelligence**](https://www.just3ws.com/intelligence/): Interactive trope visualizer & corpus heatmaps.
 - 🗺️ [**Interactive Timeline**](https://www.just3ws.com/timeline/) & [**Speaker Directory**](https://www.just3ws.com/speakers/)
 
 ---
@@ -44,7 +44,7 @@ Curating 15+ years of oral history and engineering wisdom across Midwest softwar
 Languages      Ruby (Rails, Sequel, dry-rb) · TypeScript / Node.js · Go · Python · C#
 Data & Storage PostgreSQL · Redis · Sidekiq · MongoDB
 Observability  OpenTelemetry (OTel) · OpenObserve · Grafana LGTM
-Local AI       llama.cpp · speculative decoding · Ollama · agentic tool use
+Local AI       llama.cpp · whisper.cpp · Claude API · MCP server tooling
 Infra & OS     macOS / Linux · Docker / Colima · Nginx · WebSockets · launchd
 Security       PHI scrubbers · secret locality assertions · Brakeman static audits
 ```
@@ -58,7 +58,8 @@ Security       PHI scrubbers · secret locality assertions · Brakeman static au
 I write about system cartography, forensic engineering, legacy modernization, and software craftsmanship. 
 
 🌐 **Website & Case Studies:** [just3ws.com](https://www.just3ws.com)  
-📄 **Resume & Career Timeline:** [just3ws.com/resume/](https://www.just3ws.com/resume/)
+📄 **Resume & Career Timeline:** [just3ws.com/resume/](https://www.just3ws.com/resume/)  
+📊 **CareerOS Datalake & MCP Interface:** [just3ws.com/exports/](https://www.just3ws.com/exports/)
 
 ---
 
