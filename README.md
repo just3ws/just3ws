@@ -1,72 +1,51 @@
 # Mike Hall
 
-**Principal Software Engineer.** I modernize high-consequence production systems and establish system legibility where correctness, reliability, and security are non-negotiable constraints.
+**Principal Software Engineer** focused on making complex production systems
+legible, reliable, and ready to change.
 
-Senior technical IC leadership across platform reliability, distributed tracing, legacy monolith modernization, zero-downtime migrations, and practical local AI engineering.
+I work across legacy modernization, observability, distributed systems,
+internal engineering communities, and human-led AI-assisted tooling.
 
----
+## Focus
 
-## What I focus on
+- **Modernization:** Find safe seams in legacy systems, instrument current
+  behavior, and move toward new boundaries through reversible steps.
+- **Observability:** Use OpenTelemetry, tracing, service-level objectives, and
+  practical system maps to connect technical behavior to business outcomes.
+- **Engineering leverage:** Build mentoring relays, delegated ownership, and
+  durable communication channels that distribute context without losing
+  accountability.
+- **Bounded AI:** Use local or controlled AI tools for search, transcription,
+  graphing, and analysis. Human judgment, provenance, and automated checks stay
+  in the loop.
 
-- **Production Systems Modernization:** Strangler Fig refactoring, database seam extractions (PostgreSQL / MongoDB), and decoupling monoliths into clear domain boundaries without production downtime.
-- **System Legibility & Observability:** Production OpenTelemetry instrumentation, distributed tracing architectures, Grafana LGTM stack, and reducing the executive legibility gap.
-- **Local & Air-Gapped AI Engineering:** Private local inference (`llama.cpp`, `whisper.cpp`), deterministic eval suites, MCP tool servers, and zero-cloud-egress data protection pipelines.
-- **Craftsmanship & Architecture:** Technical leadership, architectural decision records (ADRs), contract testing, and plain-English engineering clarity.
+## Featured project
 
----
+[Phalanx Duel](https://play.phalanxduel.com/) is a real-time tactical game and
+architecture laboratory for deterministic simulation, replayable action logs,
+server-authoritative state, and controlled AI-assisted engineering.
 
-## 🎙️ The UGtastic & Midwest Craftsmanship Archive (2009 to 2026)
+- [Play Phalanx Duel](https://play.phalanxduel.com/)
+- [Read the source](https://github.com/phalanxduel/phalanxduel)
+- [Read the architecture brief](https://github.com/phalanxduel/phalanxduel/blob/main/docs/talks/phalanx-duel-commercial-and-user-group.md)
 
-Curating 15+ years of oral history and engineering wisdom across Midwest software craftsmanship movements (Software Craftsmanship North America, Chicago ALT.NET, RailsConf, GOTO Chicago, WindyCityRails):
+## Public archive
 
-- 📜 **100% Transcribed Corpus:** 211 video interviews (~456k words) with vector search and 1:1 metadata parity on [just3ws.com](https://www.just3ws.com).
-- 🕸️ [**Charlotte's Web of Wisdom & Tributes**](https://www.just3ws.com/web/): 184 speaker tributes & craftsmanship principles.
-- 💎 [**Archive Curiosities & Hidden Gems**](https://www.just3ws.com/curiosities/): Tech prophecies vs. 2026 reality & lost tooling history.
-- 📊 [**Archive Pattern Intelligence**](https://www.just3ws.com/intelligence/): Interactive trope visualizer & corpus heatmaps.
-- 🗺️ [**Interactive Timeline**](https://www.just3ws.com/timeline/) & [**Speaker Directory**](https://www.just3ws.com/speakers/)
+I maintain a public archive of technical conversations, community history, and
+engineering practice.
 
----
+- [Website and portfolio](https://www.just3ws.com/)
+- [Career timeline](https://www.just3ws.com/timeline/)
+- [UGtastic Archive Atlas](https://www.just3ws.com/archive-atlas/)
+- [Video and transcript archive](https://www.just3ws.com/interviews/)
+- [Architecture case studies](https://www.just3ws.com/case-studies/)
 
-## ⚔️ Featured Project: Phalanx Duel
+The archive separates human writing, source-backed transcripts, and AI-assisted
+syntheses. AI helps with preservation and discovery. The public interpretation
+is human-led, source-aware, and explicit about uncertainty.
 
-**A real-time tactical game platform and laboratory for deterministic systems, product architecture, and controlled AI-assisted engineering.**
+## Connect
 
-- 🕹️ **Deterministic Simulation Engine:** Built with replayable action logs and server-authoritative state transitions in TypeScript/Node.js, making complex multi-turn tactical outcomes reproducible and independently verifiable.
-- 🛡️ **Automated Verification Gates:** Complete replay validation suites, adversarial state coverage, and CI verification testing to ensure mathematical determinism across the full match lifecycle.
-- 🤖 **Bounded AI Engineering:** Developed using controlled agent workflows with bounded tasks, strict acceptance criteria, automated checks, and human-reviewed outputs rather than treating raw model output as authority.
-- ⚡ **Real-Time WebSockets & Storage:** Low-latency bi-directional sync powered by WebSockets, PostgreSQL state storage, and Redis pub/sub.
-
----
-
-## The stack
-
-```
-Languages      Ruby (Rails, Sequel, dry-rb) · TypeScript / Node.js · Go · Python · C#
-Data & Storage PostgreSQL · Redis · Sidekiq · MongoDB
-Observability  OpenTelemetry (OTel) · OpenObserve · Grafana LGTM
-Local AI       llama.cpp · whisper.cpp · Claude API · MCP server tooling
-Infra & OS     macOS / Linux · Docker / Colima · Nginx · WebSockets · launchd
-Security       PHI scrubbers · secret locality assertions · Brakeman static audits
-```
-
----
-
-## Writing and thinking
-
-> *"Complex systems become understandable when you stop hiding their behaviour and start instrumenting it."*
-
-I write about system cartography, forensic engineering, legacy modernization, and software craftsmanship. 
-
-🌐 **Website & Case Studies:** [just3ws.com](https://www.just3ws.com)  
-📄 **Resume & Career Timeline:** [just3ws.com/resume/](https://www.just3ws.com/resume/)  
-📊 **CareerOS Datalake & MCP Interface:** [just3ws.com/exports/](https://www.just3ws.com/exports/)
-
----
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=just3ws&show_icons=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/just3ws)
-&nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=just3ws&layout=compact&theme=dracula&hide_border=true)](https://github.com/just3ws)
-
-</div>
+- [just3ws.com](https://www.just3ws.com/)
+- [LinkedIn](https://www.linkedin.com/in/just3ws/)
+- [GitHub](https://github.com/just3ws)
